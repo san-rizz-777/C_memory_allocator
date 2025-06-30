@@ -52,9 +52,7 @@ This system call gives the allocator full control over the heap segment.
 
 A `pthread_mutex_t` named `global_malloc_lock` ensures thread safety during memory allocation and deallocation. This prevents race conditions when multiple threads access or modify the memory blocks.
 
-> ⚠️ **Caution**: `sbrk()` itself is not thread-safe, so even with mutexes, it's not fully safe in multithreaded environments.
 
----
 
 ## 🧰 Implemented Functions
 
