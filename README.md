@@ -159,4 +159,11 @@ This proves that your custom `malloc`, `free`, `calloc`, and `realloc` are being
 
 ---
 
+---
+
+## 💬 Feedback
+
+Feedback, suggestions, and improvements are always welcome!  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sanskar-gunde-7b9a0b33a) or email me at 📧 **mm24b005@smail.iitm.ac.in**.
+
 
